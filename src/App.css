@@ -37,6 +37,10 @@
 	padding: 2em;
 }
 
+.card button {
+	margin: 0.2rem;
+}
+
 .read-the-docs {
 	color: #888;
 }
